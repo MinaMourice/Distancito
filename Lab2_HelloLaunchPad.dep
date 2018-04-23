@@ -1,0 +1,15 @@
+Dependencies for Project 'Lab2', Target 'HelloLaunchPad': (DO NOT MODIFY !)
+F (.\main.c)(0x5AA54881)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_HelloLaunchPad-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM4\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM4 -Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (..\tm4c123gh6pm.h)(0x51D44682)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BD7A4)
+I (foo.h)(0x5AA3FC00)
+I (C:\Keil_v5\ARM\ARMCC\include\cstdint)(0x588BD7A4)
+F (.\startup.s)(0x57017F68)(--cpu Cortex-M4 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_HelloLaunchPad-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM4\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "ARMCM4 SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (C:\Users\Mina Mourice\Downloads\ezTivaLib\ez123GLIB.lib)(0x5A2277D2)()
+F (.\foo.c)(0x5AA415B3)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I.\RTE\_HelloLaunchPad-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\Device\ARM\ARMCM4\Include-D__UVISION_VERSION="524" -D_RTE_ -DARMCM4 -Drvmdk -DPART_LM4F120H5QR-o .\foo.o --omf_browse .\foo.crf --depend .\foo.d)
+I (foo.h)(0x5AA3FC00)
+I (C:\Keil_v5\ARM\ARMCC\include\cstdint)(0x588BD7A4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BD7A4)
+I (..\tm4c123gh6pm.h)(0x51D44682)
+F (.\foo.h)(0x5AA3FC00)()
+F (.\texas.o)(0x56993D26)()
